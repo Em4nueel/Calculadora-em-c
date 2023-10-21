@@ -5,3 +5,16 @@
 # Linguagem usada
 ### C
 
+## Funções presentes
+
+### Adição
+### Subtração
+### Multiplicação
+### Divisão
+### Seno
+### Cosseno
+### Tangente
+### Exponenciação
+### Radiciação
+### Bhaskara
+
